@@ -11,4 +11,6 @@ public class TestCase003 {
     //awesome code
     // code finished in future branch
 // this is my final result
+
 }
+// this is the changes from local IntelliJ
